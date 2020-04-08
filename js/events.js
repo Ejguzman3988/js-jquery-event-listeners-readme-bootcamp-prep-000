@@ -10,8 +10,8 @@ function frameIt(){
     alert('its working');
     $('img').addClass('tasty');
     
-  });
-}
+});
+
 
 function pressIt(){
   $('input').on('keydown', function(key){
