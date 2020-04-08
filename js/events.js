@@ -10,7 +10,7 @@ function frameIt(){
     alert('its working');
     $('img').addClass('tasty');
     
-  })
+  });
 }
 
 function pressIt(){
